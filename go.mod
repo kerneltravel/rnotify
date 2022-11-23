@@ -1,4 +1,4 @@
-module github.com/y-yagi/rnotify
+module github.com/kerneltravel/rnotify
 
 go 1.16
 
