@@ -18,7 +18,8 @@ import (
 	"log"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/y-yagi/rnotify"
+	//"github.com/y-yagi/rnotify"
+	"github.com/kerneltravel/rnotify"
 )
 
 func main() {
